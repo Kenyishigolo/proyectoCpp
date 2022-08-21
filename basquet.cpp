@@ -39,6 +39,7 @@ char intgs[50];
 //==========================funcion main==========================
 void caratula() {
 printf("================INGENIERIA DE SOFTWARE================\n");
+printf("================UNIVERSIDAD CONTINENTAL PERU================\n");
 printf("Integrantes:\n");	
 printf("Angie Guanoluisa \n");		
 printf("Yancarlos Pacha\n\n\n");	
