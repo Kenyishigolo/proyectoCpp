@@ -41,8 +41,8 @@ void caratula() {
 printf("================INGENIERIA DE SOFTWARE================\n");
 printf("================UNIVERSIDAD CONTINENTAL PERU================\n");
 printf("Integrantes:\n");	
-printf("Angie Guanoluisa \n");		
-printf("Yancarlos Pacha\n\n\n");	
+printf("=== KENYISHIGO ===\n");		
+printf("\n\n\n");	
 };
 	
 int main()
